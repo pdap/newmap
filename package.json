@@ -27,6 +27,7 @@
   },
   "scripts": {
     "test": "spm test",
-    "build": "spm build"
+    "build": "spm build",
+    "docs":"spm doc"
   }
 }

@@ -1,6 +1,6 @@
-# newmap [![spm version](http://spmjs.io/badge/newmap)](http://spmjs.io/package/newmap)
+# 使用说明 [![spm version](http://spmjs.io/badge/newmap)](http://spmjs.io/package/newmap)
 
-- order 1
+- order 2
 ---
 
 newmap module
@@ -10,6 +10,11 @@ newmap module
 ```
 $ spm install newmap --save
 ```
+## 样式依赖
+````html
+<link rel="stylesheet" href="http://www.newmapgis.com/coder/dev/jsExs/api/newmap.css">
+ 同时div需要具备高度宽度属性
+````
 
 ## 使用
 
