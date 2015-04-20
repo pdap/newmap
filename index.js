@@ -1,3 +1,2 @@
-var newmap;
-
-module.exports = newmap;
+module.exports = require("./src/NewMap.js");
+ 
